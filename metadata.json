@@ -1,0 +1,7 @@
+{
+  "name": "BinDrop - Online Liquidation Bin Store",
+  "description": "A dynamic resale marketplace where returned items decrease in price by 1/7th every day until they find a home.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
